@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  func_block.swift
 //  SwiftCMD
 //
 //  Created by vivi wu on 2019/5/28.
@@ -8,7 +8,3 @@
 
 import Foundation
 
-print("Hello, World!")
- 
-//StringCharacterSet()
-GbkString2Unicode()
